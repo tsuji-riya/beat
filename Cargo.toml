@@ -1,0 +1,12 @@
+[package]
+name = "beat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+beat-detector = "=0.1.0"
+log = "0.4.25"
+realfft = "3.4.0"
+ringbuffer = "0.15.0"
+simplelog = "0.12.2"
+wasapi = "0.16.0"
